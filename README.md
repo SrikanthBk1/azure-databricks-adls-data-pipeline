@@ -65,10 +65,10 @@ All credentials are secured using placeholders / secrets.
 ---
 
 ## 📁 Project Structure
--notebooks/ → Databricks notebooks
--transformations/ → PySpark ETL scripts
--dashboard/ → Power BI files & screenshots
--images/ → Architecture diagrams
+ notebooks/ → Databricks notebooks
+ transformations/ → PySpark ETL scripts
+ dashboard/ → Power BI files & screenshots
+ images/ → Architecture diagrams
 
 ---
 

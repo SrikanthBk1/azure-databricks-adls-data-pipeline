@@ -65,14 +65,14 @@ All credentials are secured using placeholders / secrets.
 ---
 
 ## 📁 Project Structure
-¬¬¬
+```
 tokyo-olympics-data-engineering/
 ├── notebooks/ # Databricks notebooks
 ├── transformations/ # PySpark ETL scripts
 ├── dashboard/ # Power BI files & screenshots
 ├── images/ # Architecture diagrams
 └── README.md
-¬¬¬
+```
 ---
 
 ## 🚀 Features
